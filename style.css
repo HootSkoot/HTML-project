@@ -3,7 +3,7 @@ enclosed by different characters than HTML comments. */
 body{
   background-color: black;
 }
-h1,div, span{
+h1,div, p{
   color: white;
 }
 .contents{
